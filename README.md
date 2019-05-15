@@ -1,4 +1,4 @@
-# OpenCV Stone type recognition based on texture classification
+# Stone type recognition based on texture classification using OpenCV
 - Extraction of textural features
   - Angular second moment
   - Variance
