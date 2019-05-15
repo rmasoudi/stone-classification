@@ -8,3 +8,4 @@
 - Classification using decision trees
 - Comparing results
 
+![Ditribution of textural features](1.png?raw=true "Ditribution of textural features")
